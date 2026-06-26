@@ -1,2 +1,3 @@
 # Memory-Card-Matching-Game
-🃏The Game built with React + vite — features 3 difficulty levels (Easy/Medium/Hard), card flip animations, move counter, live timer, and a win screen. Best scores persist via localStorage. Fully responsive across desktop &amp; mobile. Clean component-based architecture with hooks.
+
+🃏 A Memory Card Matching Game built with React and Vite. Features three difficulty levels (Easy, Medium, Hard), smooth card flip animations, move counter, live timer, win screen, and best-score tracking using localStorage. Built with a clean component-based architecture using React Hooks and fully responsive across desktop and mobile devices.
